@@ -1,4 +1,4 @@
-run.sh and run_df.sh to run a container on specified image 
+run.sh and run_df.sh to run a container on the required python image 
 with <bash> entrypoint.
 
 run_df.sh runs image from Dockerfile. Should be run from ./q1 as current directory.
