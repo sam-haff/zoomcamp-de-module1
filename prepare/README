@@ -1,0 +1,2 @@
+<docker compose up> to run a PG instance along with PGADMIN4.
+<cd> to ./ingest and <./run> to ingest required data to the database.

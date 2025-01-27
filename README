@@ -1,0 +1,2 @@
+Data ingestion and postgres instance setup is in the <prepare> folder.
+Code for every Question N is in the f'q{N}' folder.

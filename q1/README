@@ -1,0 +1,9 @@
+run.sh and run_df.sh to run a container on specified image 
+with <bash> entrypoint.
+
+run_df.sh runs image from Dockerfile. Should be run from ./q1 as current directory.
+
+run.sh runs image from <docker run> command. That approach 
+required a workarround for Windows, comments in the script.
+Should be run from ./q1 as current directory.
+
