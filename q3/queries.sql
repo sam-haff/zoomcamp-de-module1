@@ -1,3 +1,8 @@
+/*
+    Assumes the data is cleaned and 
+    no entry violates invariant dropoff_datetime > pickup_datetime 
+*/
+
 SELECT COUNT(*) AS "UP TO 1 MILE" 
 FROM trips 
 WHERE lpep_pickup_datetime >= '2019-10-01' 
